@@ -1,1 +1,1 @@
-## API Testting with Rest-Assured and JUnit
+## API Testing with Rest-Assured and JUnit
